@@ -16,20 +16,19 @@ For a full breakdown of the demos provided within this repository check the demo
     4) [switchNavigator](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalog/tree/master/React-Navigation/switchNavigator)
      
 * [Styled-Components](https://www.styled-components.com/)
-    1) Headings
-    2) Container
-For the styled components demo head over to https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalog/tree/master/Styled-Components
+    1) [Headings](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalog/tree/master/Styled-Components)
+    2) [Container](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalog/tree/master/Styled-Components)
     
-* Text-Inputs
+* [Text-Inputs](https://facebook.github.io/react-native/docs/textinput)
     1) [Handling input changes](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalog/tree/master/Text-Input/UpdateValues)
     2) [Saving data](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalog/tree/master/Text-Input/Saving)
     3) [Loading data](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalog/tree/master/Text-Input/Loading) 
 
-* ShortID
- To see the shortID utiltiy head over to https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalogue
+* [ShortID](https://github.com/dylang/shortid)
+    1) [Short ID Demo](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalogue)
 
-* PropType
-To view the proptype demo head over to https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalogue/tree/master/PropTypes
+* [PropType](https://reactjs.org/docs/typechecking-with-proptypes.html)
+    1) [PropType Demo](https://github.com/AlexMachin1997/React-Native-Code-Sample-Catalogue/tree/master/PropTypes)
 
 ## Getting started 
 
